@@ -9,6 +9,8 @@ Welcome to Pokemon Go's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
 	home/home.rst
+	updates/updates.rst
+	
