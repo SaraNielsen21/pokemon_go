@@ -11,16 +11,16 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-home/home.rst
-updates/updates.rst
-buddy_system/buddy_system.rst
-accidents/accidents.rst
-gyms/gyms.rst
-catching/catching.rst
-eggs/eggs.rst
-best_pokemon/pokemon.rst
-evolutions/evolutions.rst
-strategies/strategies.rst
-achievements/achievements.rst
-items/items.rst
+ home/home.rst
+ updates/updates.rst
+ buddy_system/buddy_system.rst
+ accidents/accidents.rst
+ gyms/gyms.rst
+ catching/catching.rst
+ eggs/eggs.rst
+ best_pokemon/pokemon.rst
+ evolutions/evolutions.rst
+ strategies/strategies.rst
+ achievements/achievements.rst
+ items/items.rst
 	
