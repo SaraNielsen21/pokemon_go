@@ -35,6 +35,11 @@ colored circle around your pokemon. The smaller the circle is when you hit
 it the better the catch. Besides increasing your chances of catching the 
 pokemon these types of catches also give you more xp.
 
+.. image:: excellent.png
+	:align: center
+	:height: 300
+	:width: 200
+
 The last type of bonus is achieved by getting bronze, silver, or gold medals 
 for catching different types of pokemon. If you have been playing Pokemon Go 
 for awhile now you've probably already gotten some of these medals, but if 
