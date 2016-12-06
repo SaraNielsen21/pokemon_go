@@ -35,8 +35,15 @@ colored circle around your pokemon. The smaller the circle is when you hit
 it the better the catch. Besides increasing your chances of catching the 
 pokemon these types of catches also give you more xp.
 
+.. image:: nice.png
+	:height: 300
+	:width: 200
+
+.. image:: great.png
+	:height: 300
+	:width: 200
+
 .. image:: excellent.png
-	:align: center
 	:height: 300
 	:width: 200
 
