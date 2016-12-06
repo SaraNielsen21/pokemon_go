@@ -58,3 +58,21 @@ Rare Pokemon:
  * Omanyte
  * Kabuto
  * Aerodactyl
+
+Region Exclusive Pokemon
+--------------------------
+Some of the hardest pokemon in the game to catch are the region exclusive pokemon.
+There are four pokemon in the game that are only available in certain regions of
+the world. This means that the only way to completely fill out your pokedex is
+by traveling around the world. The four region exclusive pokemon and where they can 
+be found are listed below. However, there have been reports on hatching some of these
+pokemon from 10km eggs, regardless of the region.
+
+=========== ==============
+Pokemon     Region
+=========== ==============
+Tauros      North America
+Mr. Mime    Europe
+Farfetch'd  Asia
+Kangaskhan  Australia
+=========== ==============
