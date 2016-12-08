@@ -4,7 +4,7 @@ The Best Pokemon
 As you continue to level up in the game you will hopefully start to find some
 rare high level pokemon. Once you have some awesome pokemon you need to determine
 which ones are the best so you know which pokemon to spend your stardust on.
-Below we have listed the top 10 best pokemon in the game along with the stats 
+Below we have listed the 10 best pokemon in the game along with their stats 
 that make them the best!
 
 +-----------+--------+--------+--------+

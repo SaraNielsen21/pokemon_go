@@ -4,7 +4,7 @@ How to Catch Pokemon
 Items
 -------
 
-Pokemon are all over all you need to do is walk around to find them! But once 
+Pokemon are everywhere and all you need to do is walk around to find them! But once 
 you find one what to you do? It’s easy, simply use your pokeballs to capture the pokemon. 
 
 Besides the pokeball there are a lot more things that can be taken into 
@@ -49,8 +49,8 @@ pokemon these types of catches also give you more xp.
 
 The last type of bonus is achieved by getting bronze, silver, or gold medals 
 for catching different types of pokemon. If you have been playing Pokemon Go 
-for awhile now you've probably already gotten some of these medals, but if 
-you're just starting you will need to catch some more pokemon first. 
+for a while now you have probably already gotten some of these medals, but if 
+you are just starting you will need to catch some more pokemon first. 
 
 The table below shows how much each item and bonus will increase 
 your chance of catching a pokemon.
