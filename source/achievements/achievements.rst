@@ -1,7 +1,12 @@
 Achievements
 ============
 
-While playing the game, you can unlock certain bonuses through achievements. These achievement badges have three different colors: blank if you haven't achieved bronze yet, bronze, silver, and gold. Broze gives you a +1 catching bonus for the type of pokemon the badge pertains to, silver gives you a +2 catching bonus, and gold gives you a +3 catching bonus. The catching bonuses make catching these types of pokemon slightly easier.
+What Are They?
+--------------
+
+While playing the game, you can unlock certain bonuses through achievements. These achievement badges have three different colors: blank if you haven't achieved bronze yet, bronze, silver, and gold. Broze gives you a +1 catching bonus for the type of pokemon the badge pertains to, silver gives you a +2 catching bonus, 
+and gold gives you a +3 catching bonus.
+The catching bonuses make catching these types of pokemon slightly easier.
 
 Badges
 ------
