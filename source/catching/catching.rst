@@ -60,7 +60,6 @@ Bonus Type   Multiplier
 ============ ===========
 Razz Berry   1.5
 Curveball    1.7
-Catch        2-r
 Poke Ball	 1.0
 Great Ball   1.5
 Ultra Ball   2.0
