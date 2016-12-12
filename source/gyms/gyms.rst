@@ -114,7 +114,7 @@ with the max level being 10.
 .. _gyms-why-bother-ref:
 
 Gyms: Why Bother?
------------
+------------------
 Once you have put a Pokemon in the gym, 
 you can collect coins in the shop for being in the gym.  
 However, you can only do this once every 21 hours, 
