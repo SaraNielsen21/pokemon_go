@@ -85,4 +85,4 @@ Magikarp   Poliwag      -
    -       Porygon      -
 ========== ========== ==========
 
-To see the evolutions of all of these pokemon that can hatch from eggs, visit this page: file:///F:/CIS%20120/Pokemon%20Go/build/html/evolutions/evolutions.html
+To see the evolutions of all of these pokemon that can hatch from eggs, visit this page: http://www.ign.com/wikis/pokemon-go/List%20of%20Pokemon%20(Pokedex) (Press the pokemon link when brought to the website)

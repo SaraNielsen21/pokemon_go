@@ -102,4 +102,4 @@ Standalones
 |    Mewtwo          |
 +--------------------+
 
-A lot of these base forms or standalones you can get from hatching eggs. To learn about eggs, go here: file:///E:/CIS%20120/Pokemon%20Go/build/html/eggs/eggs.html
+A lot of these base forms or standalones you can get from hatching eggs. To learn about eggs, go here: http://www.ign.com/wikis/pokemon-go/Eggs_and_Hatching
