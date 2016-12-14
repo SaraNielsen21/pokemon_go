@@ -1,6 +1,30 @@
 Updates
 ==========
 
+Christmas Update
+-----------------
+The much anticipated Christmas event is finally here! Players can now 
+find a festive Pikachu wearing a Santa hat in the wild! It has also 
+been said that if you evolve your festive Pikachu that Raichu will 
+still be wearing the Santa hat.
+
+.. image:: pikachu.png
+    :align: center
+    :height: 300
+    :width: 200
+
+Besides the festive Pikachu Niantic has also added baby pokemon! So far 
+players have confirmed that seven baby pokemon have been added to the 
+game. These include Igglybuff, Cleffa, Pichu, Togepi, Smoochum, Elekid, 
+and Magby. The only way to catch these adorable babies is by hatching eggs.
+Igglybuff and Cleffa can be found in 2k eggs, Pichu and Togepi in 5k eggs,
+and Smoochum, Elekid, and Magby in 10k eggs.
+
+.. image:: igglybuff.png
+    :align: center
+    :height: 300
+    :width: 200
+
 Ditto is here!
 ---------------
 .. image:: ditto.png
